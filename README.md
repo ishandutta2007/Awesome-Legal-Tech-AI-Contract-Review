@@ -1,9 +1,5 @@
 # Awesome-Legal-Tech-AI-Contract-Review
 
-# Awesome-Legal-Tech-AI-Contract-Review
-
-
-
 Top Legal Tech AI Contract Review (Opensource) 🌟 Star if you like it! 🌟
 
 
@@ -44,31 +40,20 @@ A curated list of top Legal Tech platforms, AI contract review & redlining engin
 
 ## SaaS/Hosted Platforms
 
-
-
 Commercial, cloud-hosted AI legal copilots, enterprise Contract Lifecycle Management (CLM) suites, and proprietary contract review platforms.
 
-
-
-* **[Robin AI](https://robinai.com)** - AI-native contract copilot and managed legal service combining generative AI with human-in-the-loop contract drafting and review.
-
-* **[Ironclad](https://ironcladapp.com)** - Enterprise digital contracting and CLM platform featuring AI-assisted redlining, automated approval workflows, and repository analytics.
-
-* **[ContractPodAi (Leah)](https://contractpodai.com)** - Commercial AI-powered CLM and legal GenAI platform automating contract generation, risk scoring, and obligation tracking.
-
-* **[Evisort (Workday)](https://evisort.com)** - Enterprise contract intelligence and lifecycle platform using proprietary AI to extract metadata and clauses across legacy agreements.
-
-* **[Luminance](https://luminance.com)** - Legal-grade AI platform automating contract negotiation, due diligence, and anomaly detection across multilingual documents.
-
-* **[Lexion (DocuSign Intelligent Agreement Management)](https://lexion.ai)** - AI-powered contract management and intake system automating redlines, renewals, and agreement workflows.
-
-* **[SpotDraft](https://spotdraft.com)** - End-to-end cloud CLM platform built for fast-growing business and legal teams with automated templates and redline tracking.
-
-* **[Thomson Reuters CoCounsel (formerly Casetext)](https://thomsonreuters.com)** - Professional-grade generative AI legal assistant for contract analysis, legal research, deposition prep, and document review.
-
-* **[LawGeex](https://lawgeex.com)** - Commercial AI contract review automation platform comparing incoming agreements against predefined corporate legal playbooks.
-
-* **[Spellbook](https://spellbook.legal)** - Generative AI contract drafting and review assistant integrated directly inside Microsoft Word for instant clause suggestions.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| --- | --- | --- | --- |
+| **[Robin AI](https://robinai.com)** | AI-native contract copilot and managed legal service combining generative AI with human-in-the-loop contract drafting and review. | Free tier available; paid Pro tiers typically require quote / starting ~$250/mo | **Free forever plan:** 1 user, light usage capped at 10 messages/day. |
+| **[Spellbook](https://spellbook.legal)** | Generative AI contract drafting and review assistant integrated directly inside Microsoft Word for instant clause suggestions. | Starts at ~$89 – $179/user/month (billed annually) for standard professional tiers; solo tiers ~$249–$299/month | **7-day free trial** with full Microsoft Word add-in features (sales demo or sign-up activation). |
+| **[Thomson Reuters CoCounsel](https://thomsonreuters.com)** | Professional-grade generative AI legal assistant for contract analysis, legal research, deposition prep, and document review. | Starts at ~$100 – $225/user/month (add-on) or bundled starting at ~$630/month (CoCounsel Legal) | **Sales-assisted free trial** (duration typically 7 to 14 days upon representative approval). |
+| **[Ironclad](https://ironcladapp.com)** | Enterprise digital contracting and CLM platform featuring AI-assisted redlining, automated approval workflows, and repository analytics. | Starts at ~$500/month (base entry contracts typically start at $15,000/year) | **Sandbox evaluation period** available upon sales request for prospective enterprise testing; no public free plan. |
+| **[SpotDraft](https://spotdraft.com)** | End-to-end cloud CLM platform built for fast-growing business and legal teams with automated templates and redline tracking. | Starts at ~$1,250 – $2,000/month (annual commitments starting at $15,000 – $25,000/year) | **No self-serve free tier or trial** (access via guided product demo only). |
+| **[Lexion](https://lexion.ai)** | AI-powered contract management and intake system automating redlines, renewals, and agreement workflows. | Starts at ~$1,250 – $2,100/month (annual contracts starting at $15,000 – $25,000+/year) | **No self-serve free tier or trial** (custom interactive demo provided upon request). |
+| **[Evisort (Workday)](https://evisort.com)** | Enterprise contract intelligence and lifecycle platform using proprietary AI to extract metadata and clauses across legacy agreements. | Starts at ~$1,250 – $2,500/month (annual contracts starting at $15,000 – $30,000/year for up to 2,000 contracts) | **No self-serve free tier or trial** (guided enterprise proof of concept / pilot upon request). |
+| **[LawGeex](https://lawgeex.com)** | Commercial AI contract review automation platform comparing incoming agreements against predefined corporate legal playbooks. | Starts at ~$850 – $2,500/month (annual enterprise contracts typically starting at $10,000 – $30,000/year) | **No self-serve free tier or trial** (custom enterprise evaluation / demo only). |
+| **[ContractPodAi (Leah)](https://contractpodai.com)** | Commercial AI-powered CLM and legal GenAI platform automating contract generation, risk scoring, and obligation tracking. | Starts at ~$4,150/month (annual enterprise deployments starting at $50,000/year) | **No self-serve free tier or trial** (custom sales demonstration only). |
+| **[Luminance](https://luminance.com)** | Legal-grade AI platform automating contract negotiation, due diligence, and anomaly detection across multilingual documents. | Starts at ~$5,000/month (annual enterprise deployments starting at $60,000/year) | **No self-serve free tier or trial** (structured enterprise pilot / proof of concept negotiated with sales). |
 
 
 
